@@ -39,4 +39,11 @@ h1 {
     line-height: 2;
     letter-spacing: 1px;
   }
-
+@media screen and (max-width: 600px) {
+    p {
+      font-size: 30px;
+    }
+    .bio {
+      padding-top: 30px;
+    }
+  }
