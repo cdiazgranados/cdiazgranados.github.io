@@ -40,8 +40,3 @@ h1 {
     letter-spacing: 1px;
   }
 
-@media only screen and (max-width: 300px) {
-   audio {
-    padding: 200px; 
-}
-}
