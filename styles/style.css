@@ -34,17 +34,9 @@ h1 {
     align-items: center;
   }
   
-  p, li {
+  p {
     font-size: 16px;    
     line-height: 2;
     letter-spacing: 1px;
   }
-@media screen and (max-width: 600px) {
-  
- .audio-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-}
   
