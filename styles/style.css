@@ -39,3 +39,7 @@ h1 {
     line-height: 2;
     letter-spacing: 1px;
   }
+
+@media only screen and (max-width: 600px) {
+    padding: 30px;
+}
