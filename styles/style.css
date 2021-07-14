@@ -41,5 +41,7 @@ h1 {
   }
 
 @media only screen and (max-width: 600px) {
-    padding: 30px;
+   audio {
+    padding: 50px; 
+}
 }
