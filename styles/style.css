@@ -41,7 +41,7 @@ h1 {
   }
 @media screen and (max-width: 600px) {
     p {
-      font-size: 30px;
+      font-size: 25px;
     }
     .bio {
       padding-top: 30px;
